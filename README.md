@@ -5,11 +5,11 @@ Data science bootcamp with 'adToy' [DataRockie](https://datarockie.com/)
 We learn 10 sprints during 4+2 mouth program.
 
 - **[Spreadsheets](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
-- **[SQL Database](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
-- **[R Programming](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
-- **[Data Tranformation](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
-- **[Data Visualization](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
-- **[Statistics](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
+- **[SQL Database](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#SQL-Database)**
+- **[R Programming](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#R-Programming)**
+- **[Data Tranformation](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Data-Tranformation)**
+- **[Data Visualization](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Data-Visualization)**
+- **[Statistics](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Statistics)**
 - **[Intro to 'Classical' Machine Learning](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
 - **[Intro to Python](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
 - **[Essential Python for Data analytics](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
