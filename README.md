@@ -4,7 +4,7 @@ Data science bootcamp with 'adToy' [DataRockie](https://datarockie.com/)
 
 We learn 10 sprints during 4+2 mouth program.
 
-- **[Spreadsheets](docs/Spreadsheets.md)**
+- **[Spreadsheets]**
 - **SQL Database**
 - **R Programming**
 - **Data Tranformation**
@@ -17,4 +17,4 @@ We learn 10 sprints during 4+2 mouth program.
 
 Badges : 
 
-##Spreadsheets
+## Spreadsheets
