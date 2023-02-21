@@ -1,9 +1,9 @@
 # bootcamp Projects
 
-Data science bootcamp with 'adToy' DataRockie
+Data science bootcamp with 'adToy' [DataRockie](https://datarockie.com/)
 
 We learn 10 sprints during 4 mouth program.
-
+**
 - Spreadsheets
 - SQL Database
 - R Programming
@@ -14,5 +14,5 @@ We learn 10 sprints during 4 mouth program.
 - Intro to Python
 - Essential Python for Data analytics
 - Dashboard
-
+**
 Badges : 
