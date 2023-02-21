@@ -14,7 +14,7 @@ We learn 10 sprints during 4+2 mouth program.
 - **[Intro to Python](https://github.com/hazymist17/bootcamp_data_analysis_projects#Intro-to-Python)**
 - **[Essential Python for Data analytics](https://github.com/hazymist17/bootcamp_data_analysis_projects#Essential-Python-for-Data-analytics)**
 - **[Dashboard](https://github.com/hazymist17/bootcamp_data_analysis_projects#Dashboard)**
-- **[Bonus Classes](/Bonus-Classes)
+- **[Bonus Classes](https://github.com/hazymist17/bootcamp_data_analysis_projects#Bonus-Classes)**
 
 Badges : 
 
@@ -58,7 +58,39 @@ Badges :
 - ลองสร้าง simple ML model ด้วย `sklearn`
 
 ## Dashboard
-- [ ]  สร้าง dashboard ด้วย `Looker Studio`
-- [ ]  สร้าง dashboard ด้วย `Tableau Public`
+- สร้าง dashboard ด้วย `Looker Studio`
+- สร้าง dashboard ด้วย `Tableau Public`
 
 ## Bonus Classes
+- Building A Second Brain with Notion
+- Intro to Data Engineering
+- Intro to Data Model 101
+- Intro to Google Analytics & SEO
+- Intro to Data Model 101 (Power BI version)
+- Intro to Team Topologies
+- Intro to Figma (UX/UI)
+- Intro to Data Visualization on Web
+- Intro to SEO & Data Studio
+- Intro to UX Writing
+- UX Foundations
+- Intro to HTML CSS, a little bit of JS
+- Intro to Digital Product
+- Intro to JavaScript API
+- Google Analytics GA4
+- Power BI
+- Product Management 101
+
+
+
+
+
+
+- 
+
+
+
+
+
+
+
+
