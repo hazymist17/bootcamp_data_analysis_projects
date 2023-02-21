@@ -18,7 +18,15 @@ We learn 10 sprints during 4+2 mouth program.
 Badges : 
 
 ## Spreadsheets
-12
+## SQL Database
+## R Programming
+## Data Tranformation
+## Data Visualization
+## Statistics
+## Intro to 'Classical' Machine Learning
+## Intro to Python
+## Essential Python for Data analytics
+## Dashboard
 
 
 
