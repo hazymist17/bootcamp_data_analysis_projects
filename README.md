@@ -1,6 +1,6 @@
 # bootcamp Projects
 
-Data science bootcamp with 'adToy'
+Data science bootcamp with 'adToy' DataRockie
 
 We learn 10 sprints during 4 mouth program.
 
