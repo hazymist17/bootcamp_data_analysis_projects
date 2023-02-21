@@ -14,6 +14,7 @@ We learn 10 sprints during 4+2 mouth program.
 - **[Intro to Python](https://github.com/hazymist17/bootcamp_data_analysis_projects#Intro-to-Python)**
 - **[Essential Python for Data analytics](https://github.com/hazymist17/bootcamp_data_analysis_projects#Essential-Python-for-Data-analytics)**
 - **[Dashboard](https://github.com/hazymist17/bootcamp_data_analysis_projects#Dashboard)**
+- **[Bonus Classes](/Bonus-Classes)
 
 Badges : 
 
@@ -60,3 +61,4 @@ Badges :
 - [ ]  สร้าง dashboard ด้วย `Looker Studio`
 - [ ]  สร้าง dashboard ด้วย `Tableau Public`
 
+## Bonus Classes
