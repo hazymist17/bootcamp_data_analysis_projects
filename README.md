@@ -4,16 +4,16 @@ Data science bootcamp with 'adToy' [DataRockie](https://datarockie.com/)
 
 We learn 10 sprints during 4+2 mouth program.
 
-- **[Spreadsheets](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#spreadsheets)**
-- **[SQL Database](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#SQL-Database)**
-- **[R Programming](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#R-Programming)**
-- **[Data Tranformation](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Data-Tranformation)**
-- **[Data Visualization](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Data-Visualization)**
-- **[Statistics](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Statistics)**
-- **[Intro to 'Classical' Machine Learning](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Intro-to-Classical-Machine-Learning)**
-- **[Intro to Python](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Intro-to-Python)**
-- **[Essential Python for Data analytics](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Essential-Python-for-Data-analytics)**
-- **[Dashboard](https://github.com/hazymist17/bootcamp_data_analysis_projects/blob/main/README.md#Dashboard)**
+- **[Spreadsheets](https://github.com/hazymist17/bootcamp_data_analysis_projects#spreadsheets)**
+- **[SQL Database](https://github.com/hazymist17/bootcamp_data_analysis_projects#SQL-Database)**
+- **[R Programming](https://github.com/hazymist17/bootcamp_data_analysis_projects#R-Programming)**
+- **[Data Tranformation](https://github.com/hazymist17/bootcamp_data_analysis_projects#Data-Tranformation)**
+- **[Data Visualization](https://github.com/hazymist17/bootcamp_data_analysis_projects#Data-Visualization)**
+- **[Statistics](https://github.com/hazymist17/bootcamp_data_analysis_projects#Statistics)**
+- **[Intro to 'Classical' Machine Learning](https://github.com/hazymist17/bootcamp_data_analysis_projects#Intro-to-Classical-Machine-Learning)**
+- **[Intro to Python](https://github.com/hazymist17/bootcamp_data_analysis_projects#Intro-to-Python)**
+- **[Essential Python for Data analytics](https://github.com/hazymist17/bootcamp_data_analysis_projects#Essential-Python-for-Data-analytics)**
+- **[Dashboard](https://github.com/hazymist17/bootcamp_data_analysis_projects#Dashboard)**
 
 Badges : 
 
